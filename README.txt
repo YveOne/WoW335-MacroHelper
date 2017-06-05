@@ -23,8 +23,8 @@ Tired of getting errors because a spell is not ready for reuse?
 Here is what you can do:
 ---------------------------
 #showtooltip Flash Heal
-/use 14
 /errors off
+/use 14
 /used 14
 /cast Flash Heal
 /errors on
