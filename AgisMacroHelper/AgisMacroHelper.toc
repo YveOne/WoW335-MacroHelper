@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cFFCA153BAgi|r's Macro Helper
+## Version: 1.0.0
+## Author: Agita (Yvonne P.)
+## Notes: Useful functions for your macros
+## Notes-deDE: Hilfreiche Funktionen für deine Makros
+
+AgisMacroHelper.lua
